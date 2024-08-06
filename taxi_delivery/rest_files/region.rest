@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/region
+Content-Type: application/json
+
+{
+    "name": "Samarkand Ulugbek"
+}
+###
+
+GET http://localhost:3000/api/regions
